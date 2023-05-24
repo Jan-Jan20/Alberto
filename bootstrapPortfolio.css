@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(to bottom, #333333, #000000);
+    
+}
+.text-below{
+margin-top: 100px;
+}
+#carouselExampleAutoplaying .carousel-item img{
+    height: 650px;
+    width: 500;
+}
+.icon-img {
+    width: 100px;
+    height: 100px;
+    margin-left: 135;
+  }
+
+  .form-control {
+    background-color: rgb(0, 0, 0);
+    color: rgb(45, 15, 240);
+    border-color: rgb(11, 170, 255);
+  }
+
+  .btn-primary {
+    background-color: rgb(13, 146, 255);
+    border-color: navy;
+  }
